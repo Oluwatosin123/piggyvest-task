@@ -1,0 +1,114 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  height: 50px;
+  width: 220px;
+  margin: 3rem 0 0.5rem 35.25rem;
+}
+
+.body {
+  background-color: #062963;
+  /* background-image: url(/images/background2\ .jpg); */
+  background-position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.submission-form {
+  max-width: 27rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 2px solid #fff;
+  border-radius: 1rem 1rem 1rem 0;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+label {
+  display: block;
+  margin-top: 1.5rem;
+}
+
+input {
+  display: block;
+  width: 100%;
+  background-color: rgba(131, 157, 212, 0.123);
+  border: none;
+  border-radius: 0.3rem;
+  padding: 1.5rem 0 1.5rem 1rem;
+  font-size: medium;
+  text-align: start;
+  box-sizing: border-box;
+}
+
+#sendBtn {
+  border: 2px solid #fff;
+  border-radius: 0.7rem 0.7rem 0.7rem 0;
+  background: #083eae;
+  padding: 1.3rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+
+#sendBtn:hover {
+  background-color: #071d44;
+}
+
+.point {
+  text-align: left;
+  margin-right: 3rem;
+  font-size: x-small;
+  color: rgb(14, 15, 17);
+  padding: 1rem 0 0.5rem 0;
+}
+
+h2 {
+  color: #083eae;
+  text-align: center;
+}
+
+p {
+  font-size: small;
+  font-kerning: 10rem;
+  color: darkgrey;
+  margin: 0.2rem 0 2rem 0;
+  text-align: center;
+}
+
+.No-account p {
+  color: #fff;
+  font-size: small;
+  cursor: pointer;
+}
+
+p:hover {
+  color: #a1b4d6;
+}
+
+.No-account {
+  text-align: center;
+}
+
+#select {
+  width: 100%;
+  margin: 1rem 0 1rem 0;
+  padding: 1rem 0 1rem 1rem;
+  background-color: rgba(131, 157, 212, 0.123);
+  border: none;
+  border-radius: 0.3rem;
+}
+
+.point2 {
+  text-align: left;
+  margin: 2rem 0 -0.1rem 0rem;
+  font-size: x-small;
+  color: rgb(14, 15, 17);
+}

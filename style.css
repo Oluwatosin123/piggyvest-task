@@ -112,3 +112,11 @@ p:hover {
   font-size: x-small;
   color: rgb(14, 15, 17);
 }
+
+@media only screen and (max-width: 770px) {
+  .logo {
+    height: 50px;
+    width: 220px;
+    margin: 3rem 0 0.5rem 7.5rem;
+  }
+}
